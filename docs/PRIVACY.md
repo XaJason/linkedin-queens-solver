@@ -53,6 +53,7 @@ If this privacy policy changes, we will update the effective date above. However
 ## Contact
 
 For questions about this privacy policy, please contact:
+- Chrome Web Store: [LinkedIn Queens Solver](https://chromewebstore.google.com/detail/linkedin-queens-solver/dgncekenlgnneibllkjinpcfccajpjmc)
 - GitHub: [https://github.com/XaJason/linkedin-queens-solver](https://github.com/XaJason/linkedin-queens-solver)
 - Issues: [https://github.com/XaJason/linkedin-queens-solver/issues](https://github.com/XaJason/linkedin-queens-solver/issues)
 

@@ -53,6 +53,8 @@ The extension is designed to:
 - Process data locally without external transmission
 - Follow Chrome extension security best practices
 
+**Official Distribution**: The extension is officially distributed through the [Chrome Web Store](https://chromewebstore.google.com/detail/linkedin-queens-solver/dgncekenlgnneibllkjinpcfccajpjmc) for verified security and automatic updates.
+
 ### 🏆 Recognition
 Contributors who responsibly disclose security vulnerabilities will be:
 - Credited in the fix release notes (unless they prefer anonymity)

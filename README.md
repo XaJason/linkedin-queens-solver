@@ -42,7 +42,14 @@ A Chrome extension that automatically solves the daily 'Queens' puzzle game on L
 
 ## ⚙️ Installation and Usage
 
-### 📦 Method 1: Download Release (Recommended)
+### 🏪 Method 1: Chrome Web Store (Recommended)
+**[Install from Chrome Web Store →](https://chromewebstore.google.com/detail/linkedin-queens-solver/dgncekenlgnneibllkjinpcfccajpjmc)**
+
+1. **Click the link above** to open the extension in Chrome Web Store
+2. **Click "Add to Chrome"** to install instantly
+3. **Visit LinkedIn Queens** - the extension will automatically solve puzzles!
+
+### 📦 Method 2: Download Release
 1. **Download the latest release** from [GitHub Releases](https://github.com/XaJason/linkedin-queens-solver/releases)
 2. **Extract the ZIP file** to a local directory
 3. **Open Google Chrome** and navigate to `chrome://extensions`
@@ -50,7 +57,7 @@ A Chrome extension that automatically solves the daily 'Queens' puzzle game on L
 5. **Click "Load unpacked"** and select the extracted extension folder
 6. **Visit LinkedIn Queens** - the extension will automatically solve puzzles!
 
-### 🔧 Method 2: Clone Repository (Development)
+### 🔧 Method 3: Clone Repository (Development)
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/XaJason/linkedin-queens-solver.git

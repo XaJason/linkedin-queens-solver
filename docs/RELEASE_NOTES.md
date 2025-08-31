@@ -17,6 +17,11 @@ This release introduces comprehensive support for both signed-in and signed-out 
 - Enhanced debugging with context indicators
 
 ## 📦 Installation
+
+### Chrome Web Store (Recommended)
+**[Install directly from Chrome Web Store →](https://chromewebstore.google.com/detail/linkedin-queens-solver/dgncekenlgnneibllkjinpcfccajpjmc)**
+
+### Manual Installation
 1. Download the `linkedin-queens-solver-v1.1.0.zip` file
 2. Extract to a local directory
 3. Open Chrome and go to `chrome://extensions`

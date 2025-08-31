@@ -3,6 +3,8 @@
 ## Project Overview
 A Chrome browser extension that automatically solves LinkedIn's Queens puzzle game using an optimized backtracking algorithm with universal compatibility across different user authentication states.
 
+**Available on Chrome Web Store**: [Install Here](https://chromewebstore.google.com/detail/linkedin-queens-solver/dgncekenlgnneibllkjinpcfccajpjmc)
+
 ## Core Features
 - **Universal Compatibility**: Works for both signed-in and signed-out LinkedIn users
 - **Intelligent Context Detection**: Automatically adapts to LinkedIn's different game loading strategies

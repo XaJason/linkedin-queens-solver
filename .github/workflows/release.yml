@@ -30,7 +30,10 @@ jobs:
         body: |
           ## LinkedIn Queens Solver v${{ steps.version.outputs.VERSION }}
           
-          📦 **Installation Instructions:**
+          🏪 **Recommended Installation:**
+          **[Install from Chrome Web Store →](https://chromewebstore.google.com/detail/linkedin-queens-solver/dgncekenlgnneibllkjinpcfccajpjmc)**
+          
+          📦 **Manual Installation Instructions:**
           1. Download the `linkedin-queens-solver-v${{ steps.version.outputs.VERSION }}.zip` file below
           2. Extract to a local directory  
           3. Open Chrome → `chrome://extensions`

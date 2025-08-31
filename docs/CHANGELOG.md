@@ -5,6 +5,8 @@ All notable changes to the LinkedIn Queens Solver extension will be documented i
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+**🏪 Available on Chrome Web Store**: [Install Here](https://chromewebstore.google.com/detail/linkedin-queens-solver/dgncekenlgnneibllkjinpcfccajpjmc)
+
 ## [1.1.0] - 2025-08-28
 
 ### 🚀 Major Features Added

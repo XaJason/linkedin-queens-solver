@@ -9,6 +9,8 @@ Thank you for your interest in contributing to the LinkedIn Queens Solver! This 
 - Git
 - Basic knowledge of JavaScript and Chrome Extension development
 
+**Note**: For regular use, install from [Chrome Web Store](https://chromewebstore.google.com/detail/linkedin-queens-solver/dgncekenlgnneibllkjinpcfccajpjmc). Development setup below is for contributors only.
+
 ### Development Setup
 1. Fork the repository
 2. Clone your fork: `git clone https://github.com/your-username/linkedin-queens-solver.git`
