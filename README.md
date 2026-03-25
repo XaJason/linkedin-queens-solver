@@ -1,3 +1,7 @@
+> **Note:** This extension is no longer actively maintained. LinkedIn modified their
+> DOM structure in early 2026, breaking board detection. The repository is archived
+> for reference. The solver algorithm and extension architecture remain fully intact.
+
 # LinkedIn Queens Solver
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
